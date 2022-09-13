@@ -1,9 +1,9 @@
 
 # Video Müzik Bot 🇹🇷
-- [Video Müzik Bot](https://github.com/MehmetAtes21/Video-Music) Video Müzik Bot .
+- [Video Müzik Bot](https://github.com/mertece9/VideO) Video Müzik Bot .
 
 # Support 
-- [Support](https://t.me/StarBotKanal) Telegram Support Grub .
+- [Support](https://t.me/sohbetmuhabbetw) Telegram Support Grub .
 
 ---
 
