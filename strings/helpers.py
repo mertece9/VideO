@@ -38,21 +38,21 @@ HELP_1 = """✅**<u>𝖡𝖺𝗌𝗂𝗍 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋:</u>**
 
 HELP_2 = """✅<u>**𝖦𝗋𝗈𝗎𝗉 :**</u>
 
-• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @SohbetGirdap
+• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @sohbetmuhabbetw
 
 """
 
 
 HELP_3 = """✅<u>**𝖪𝖺𝗇𝖺𝗅 :**</u>
 
-• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @StarBotKanal
+• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @sohbetmuhabbetw
 
 """
 
 
 HELP_4 = """✅<u>**𝖮𝗐𝗇𝖾𝗋 :**</u>
 
-• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @Hayiboo
+• 𝖫𝖾𝗍'𝗌 𝖦𝗈 => @XLuciXT
 
 """
 HELP_5 = """🔰**<u>𝖲𝗎𝖽𝗈 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋 :</u>**
