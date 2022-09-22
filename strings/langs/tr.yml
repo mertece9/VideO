@@ -15,7 +15,7 @@ Video-Music/strings/langs/tr.yml
 Mehmet-rg Update tr.yml
  2 contributors
 417 lines (363 sloc)  23.2 KB
-name : Turkish
+name : "Turkish"
 
 # General Strings
 general_1 : "Bir kullanıcının mesajını yanıtlayın veya username/user_id verin."
